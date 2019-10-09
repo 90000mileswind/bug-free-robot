@@ -1,0 +1,135 @@
+Tue, 08 Oct 2019 17:49:14 INFO Restoring parameters from ./data/darknet_weights/yolov3.ckpt
+Tue, 08 Oct 2019 17:51:15 INFO Epoch: 0, global_step: 100 | loss: total: 1694.63, xy: 1.19, wh: 16.62, conf: 1675.20, class: 1.62 | Last batch: rec: 0.000, prec: 0.000 | lr: 7.0175e-06
+Tue, 08 Oct 2019 17:52:56 INFO Epoch: 0, global_step: 200 | loss: total: 858.66, xy: 1.10, wh: 10.45, conf: 845.63, class: 1.47 | Last batch: rec: 0.000, prec: 0.000 | lr: 1.4035e-05
+Tue, 08 Oct 2019 17:54:37 INFO Epoch: 0, global_step: 300 | loss: total: 576.94, xy: 1.07, wh: 7.70, conf: 566.84, class: 1.33 | Last batch: rec: 0.000, prec: 0.000 | lr: 2.1053e-05
+Tue, 08 Oct 2019 17:56:18 INFO Epoch: 0, global_step: 400 | loss: total: 435.32, xy: 1.03, wh: 6.17, conf: 426.93, class: 1.19 | Last batch: rec: 0.000, prec: 0.000 | lr: 2.807e-05
+Tue, 08 Oct 2019 17:58:02 INFO Epoch: 1, global_step: 500 | loss: total: 8.20, xy: 0.95, wh: 1.17, conf: 5.56, class: 0.53 | Last batch: rec: 0.043, prec: 0.500 | lr: 3.5088e-05
+Tue, 08 Oct 2019 17:59:43 INFO Epoch: 1, global_step: 600 | loss: total: 7.35, xy: 0.85, wh: 0.86, conf: 5.20, class: 0.44 | Last batch: rec: 0.000, prec: 0.000 | lr: 4.2105e-05
+Tue, 08 Oct 2019 18:01:24 INFO Epoch: 1, global_step: 700 | loss: total: 7.21, xy: 0.85, wh: 0.81, conf: 5.16, class: 0.40 | Last batch: rec: 0.154, prec: 0.500 | lr: 4.9123e-05
+Tue, 08 Oct 2019 18:03:05 INFO Epoch: 1, global_step: 800 | loss: total: 7.01, xy: 0.84, wh: 0.75, conf: 5.06, class: 0.36 | Last batch: rec: 0.028, prec: 0.200 | lr: 5.614e-05
+Tue, 08 Oct 2019 18:04:46 INFO Epoch: 1, global_step: 900 | loss: total: 6.75, xy: 0.81, wh: 0.70, conf: 4.91, class: 0.32 | Last batch: rec: 0.167, prec: 0.667 | lr: 6.3158e-05
+Tue, 08 Oct 2019 18:06:27 INFO Epoch: 2, global_step: 1000 | loss: total: 6.46, xy: 0.72, wh: 1.07, conf: 4.48, class: 0.18 | Last batch: rec: 0.100, prec: 0.125 | lr: 7.0175e-05
+Tue, 08 Oct 2019 18:08:08 INFO Epoch: 2, global_step: 1100 | loss: total: 5.87, xy: 0.70, wh: 0.68, conf: 4.33, class: 0.16 | Last batch: rec: 0.071, prec: 0.071 | lr: 7.7193e-05
+Tue, 08 Oct 2019 18:09:49 INFO Epoch: 2, global_step: 1200 | loss: total: 5.73, xy: 0.70, wh: 0.57, conf: 4.32, class: 0.14 | Last batch: rec: 0.000, prec: 0.000 | lr: 8.4211e-05
+Tue, 08 Oct 2019 18:11:31 INFO Epoch: 2, global_step: 1300 | loss: total: 5.66, xy: 0.68, wh: 0.57, conf: 4.28, class: 0.14 | Last batch: rec: 0.000, prec: 0.000 | lr: 9.1228e-05
+Tue, 08 Oct 2019 18:13:12 INFO Epoch: 2, global_step: 1400 | loss: total: 5.66, xy: 0.68, wh: 0.55, conf: 4.31, class: 0.13 | Last batch: rec: 0.100, prec: 0.111 | lr: 9.8246e-05
+Tue, 08 Oct 2019 18:14:53 INFO Epoch: 3, global_step: 1500 | loss: total: 5.40, xy: 0.62, wh: 0.57, conf: 4.14, class: 0.08 | Last batch: rec: 0.350, prec: 0.212 | lr: 0.0001
+Tue, 08 Oct 2019 18:16:34 INFO Epoch: 3, global_step: 1600 | loss: total: 5.10, xy: 0.57, wh: 0.46, conf: 4.00, class: 0.07 | Last batch: rec: 0.118, prec: 0.182 | lr: 0.0001
+Tue, 08 Oct 2019 18:18:15 INFO Epoch: 3, global_step: 1700 | loss: total: 5.14, xy: 0.56, wh: 0.49, conf: 4.02, class: 0.07 | Last batch: rec: 0.294, prec: 0.417 | lr: 0.0001
+Tue, 08 Oct 2019 18:19:56 INFO Epoch: 3, global_step: 1800 | loss: total: 5.05, xy: 0.55, wh: 0.44, conf: 4.00, class: 0.06 | Last batch: rec: 0.211, prec: 0.381 | lr: 0.0001
+Tue, 08 Oct 2019 18:21:38 INFO Epoch: 4, global_step: 1900 | loss: total: 6.15, xy: 0.54, wh: 0.34, conf: 5.19, class: 0.07 | Last batch: rec: 0.156, prec: 0.455 | lr: 0.0001
+Tue, 08 Oct 2019 18:23:19 INFO Epoch: 4, global_step: 2000 | loss: total: 4.31, xy: 0.43, wh: 0.26, conf: 3.58, class: 0.04 | Last batch: rec: 0.167, prec: 0.143 | lr: 0.0001
+Tue, 08 Oct 2019 18:25:00 INFO Epoch: 4, global_step: 2100 | loss: total: 4.47, xy: 0.44, wh: 0.28, conf: 3.71, class: 0.04 | Last batch: rec: 0.222, prec: 0.211 | lr: 0.0001
+Tue, 08 Oct 2019 18:26:41 INFO Epoch: 4, global_step: 2200 | loss: total: 4.49, xy: 0.44, wh: 0.27, conf: 3.74, class: 0.04 | Last batch: rec: 0.200, prec: 0.231 | lr: 0.0001
+Tue, 08 Oct 2019 18:28:22 INFO Epoch: 4, global_step: 2300 | loss: total: 4.49, xy: 0.44, wh: 0.29, conf: 3.73, class: 0.04 | Last batch: rec: 0.333, prec: 0.333 | lr: 0.0001
+Tue, 08 Oct 2019 18:30:18 INFO ======> Epoch: 4, global_step: 2374.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2219, Precision: 0.2277, AP: 0.1207
+EVAL: Recall: 0.2219, Precison: 0.2277, mAP: 0.1207
+EVAL: loss: total: 2.95, xy: 0.28, wh: 0.29, conf: 2.36, class: 0.02
+
+Tue, 08 Oct 2019 18:30:49 INFO Epoch: 5, global_step: 2400 | loss: total: 4.27, xy: 0.40, wh: 0.22, conf: 3.61, class: 0.03 | Last batch: rec: 0.667, prec: 0.273 | lr: 0.0001
+Tue, 08 Oct 2019 18:32:30 INFO Epoch: 5, global_step: 2500 | loss: total: 5.62, xy: 0.40, wh: 1.52, conf: 3.67, class: 0.03 | Last batch: rec: 0.476, prec: 0.417 | lr: 0.0001
+Tue, 08 Oct 2019 18:34:11 INFO Epoch: 5, global_step: 2600 | loss: total: 4.88, xy: 0.39, wh: 0.95, conf: 3.52, class: 0.03 | Last batch: rec: 0.286, prec: 0.190 | lr: 0.0001
+Tue, 08 Oct 2019 18:35:52 INFO Epoch: 5, global_step: 2700 | loss: total: 4.65, xy: 0.38, wh: 0.72, conf: 3.52, class: 0.03 | Last batch: rec: 0.667, prec: 0.231 | lr: 0.0001
+Tue, 08 Oct 2019 18:37:33 INFO Epoch: 5, global_step: 2800 | loss: total: 4.47, xy: 0.37, wh: 0.60, conf: 3.48, class: 0.03 | Last batch: rec: 0.391, prec: 0.429 | lr: 0.0001
+Tue, 08 Oct 2019 18:39:14 INFO Epoch: 6, global_step: 2900 | loss: total: 4.04, xy: 0.37, wh: 0.21, conf: 3.44, class: 0.02 | Last batch: rec: 0.250, prec: 0.129 | lr: 0.0001
+Tue, 08 Oct 2019 18:40:56 INFO Epoch: 6, global_step: 3000 | loss: total: 3.95, xy: 0.35, wh: 0.20, conf: 3.37, class: 0.02 | Last batch: rec: 0.290, prec: 0.281 | lr: 0.0001
+Tue, 08 Oct 2019 18:42:37 INFO Epoch: 6, global_step: 3100 | loss: total: 4.02, xy: 0.35, wh: 0.24, conf: 3.41, class: 0.02 | Last batch: rec: 0.238, prec: 0.263 | lr: 0.0001
+Tue, 08 Oct 2019 18:44:18 INFO Epoch: 6, global_step: 3200 | loss: total: 3.99, xy: 0.35, wh: 0.24, conf: 3.39, class: 0.02 | Last batch: rec: 0.429, prec: 0.333 | lr: 0.0001
+Tue, 08 Oct 2019 18:45:59 INFO Epoch: 6, global_step: 3300 | loss: total: 4.25, xy: 0.34, wh: 0.58, conf: 3.31, class: 0.02 | Last batch: rec: 0.444, prec: 0.320 | lr: 0.0001
+Tue, 08 Oct 2019 18:47:01 INFO ======> Epoch: 6, global_step: 3324.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2474, Precision: 0.1869, AP: 0.1174
+EVAL: Recall: 0.2474, Precison: 0.1869, mAP: 0.1174
+EVAL: loss: total: 2.96, xy: 0.26, wh: 0.29, conf: 2.40, class: 0.01
+
+Tue, 08 Oct 2019 18:48:18 INFO Epoch: 7, global_step: 3400 | loss: total: 3.75, xy: 0.32, wh: 0.18, conf: 3.23, class: 0.02 | Last batch: rec: 0.316, prec: 0.240 | lr: 0.0001
+Tue, 08 Oct 2019 18:50:00 INFO Epoch: 7, global_step: 3500 | loss: total: 3.71, xy: 0.32, wh: 0.20, conf: 3.17, class: 0.02 | Last batch: rec: 0.500, prec: 0.282 | lr: 0.0001
+Tue, 08 Oct 2019 18:51:41 INFO Epoch: 7, global_step: 3600 | loss: total: 3.75, xy: 0.32, wh: 0.20, conf: 3.20, class: 0.02 | Last batch: rec: 0.387, prec: 0.324 | lr: 0.0001
+Tue, 08 Oct 2019 18:53:22 INFO Epoch: 7, global_step: 3700 | loss: total: 3.71, xy: 0.32, wh: 0.21, conf: 3.16, class: 0.02 | Last batch: rec: 0.353, prec: 0.333 | lr: 0.0001
+Tue, 08 Oct 2019 18:55:03 INFO Epoch: 8, global_step: 3800 | loss: total: 1.99, xy: 0.12, wh: 0.10, conf: 1.77, class: 0.00 | Last batch: rec: 0.333, prec: 0.125 | lr: 0.0001
+Tue, 08 Oct 2019 18:56:44 INFO Epoch: 8, global_step: 3900 | loss: total: 3.57, xy: 0.30, wh: 0.18, conf: 3.08, class: 0.02 | Last batch: rec: 0.385, prec: 0.200 | lr: 0.0001
+Tue, 08 Oct 2019 18:58:26 INFO Epoch: 8, global_step: 4000 | loss: total: 3.47, xy: 0.30, wh: 0.18, conf: 2.98, class: 0.01 | Last batch: rec: 0.444, prec: 0.364 | lr: 0.0001
+Tue, 08 Oct 2019 19:00:07 INFO Epoch: 8, global_step: 4100 | loss: total: 3.47, xy: 0.29, wh: 0.18, conf: 2.98, class: 0.01 | Last batch: rec: 0.350, prec: 0.583 | lr: 0.0001
+Tue, 08 Oct 2019 19:01:48 INFO Epoch: 8, global_step: 4200 | loss: total: 3.55, xy: 0.30, wh: 0.26, conf: 2.98, class: 0.01 | Last batch: rec: 0.545, prec: 0.316 | lr: 0.0001
+Tue, 08 Oct 2019 19:03:40 INFO ======> Epoch: 8, global_step: 4274.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2679, Precision: 0.1606, AP: 0.1090
+EVAL: Recall: 0.2679, Precison: 0.1606, mAP: 0.1090
+EVAL: loss: total: 2.98, xy: 0.26, wh: 0.28, conf: 2.43, class: 0.01
+
+Tue, 08 Oct 2019 19:04:07 INFO Epoch: 9, global_step: 4300 | loss: total: 3.16, xy: 0.27, wh: 0.14, conf: 2.73, class: 0.01 | Last batch: rec: 0.632, prec: 0.364 | lr: 0.0001
+Tue, 08 Oct 2019 19:05:49 INFO Epoch: 9, global_step: 4400 | loss: total: 3.27, xy: 0.28, wh: 0.16, conf: 2.81, class: 0.01 | Last batch: rec: 0.650, prec: 0.382 | lr: 0.0001
+Tue, 08 Oct 2019 19:07:30 INFO Epoch: 9, global_step: 4500 | loss: total: 3.25, xy: 0.27, wh: 0.16, conf: 2.80, class: 0.01 | Last batch: rec: 0.333, prec: 0.333 | lr: 0.0001
+Tue, 08 Oct 2019 19:09:11 INFO Epoch: 9, global_step: 4600 | loss: total: 3.18, xy: 0.27, wh: 0.16, conf: 2.74, class: 0.01 | Last batch: rec: 0.667, prec: 0.333 | lr: 0.0001
+Tue, 08 Oct 2019 19:10:52 INFO Epoch: 9, global_step: 4700 | loss: total: 3.21, xy: 0.27, wh: 0.19, conf: 2.74, class: 0.01 | Last batch: rec: 0.562, prec: 0.391 | lr: 0.0001
+Tue, 08 Oct 2019 19:12:33 INFO Epoch: 10, global_step: 4800 | loss: total: 2.94, xy: 0.25, wh: 0.14, conf: 2.54, class: 0.01 | Last batch: rec: 0.409, prec: 0.300 | lr: 0.0001
+Tue, 08 Oct 2019 19:14:15 INFO Epoch: 10, global_step: 4900 | loss: total: 3.07, xy: 0.27, wh: 0.16, conf: 2.63, class: 0.01 | Last batch: rec: 0.478, prec: 0.440 | lr: 0.0001
+Tue, 08 Oct 2019 19:15:56 INFO Epoch: 10, global_step: 5000 | loss: total: 2.99, xy: 0.27, wh: 0.17, conf: 2.55, class: 0.01 | Last batch: rec: 0.545, prec: 0.261 | lr: 0.0001
+Tue, 08 Oct 2019 19:17:37 INFO Epoch: 10, global_step: 5100 | loss: total: 3.01, xy: 0.26, wh: 0.17, conf: 2.56, class: 0.01 | Last batch: rec: 0.514, prec: 0.327 | lr: 0.0001
+Tue, 08 Oct 2019 19:19:18 INFO Epoch: 10, global_step: 5200 | loss: total: 3.01, xy: 0.26, wh: 0.17, conf: 2.57, class: 0.01 | Last batch: rec: 0.400, prec: 0.476 | lr: 0.0001
+Tue, 08 Oct 2019 19:20:20 INFO ======> Epoch: 10, global_step: 5224.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2730, Precision: 0.1438, AP: 0.1023
+EVAL: Recall: 0.2730, Precison: 0.1438, mAP: 0.1023
+EVAL: loss: total: 3.10, xy: 0.26, wh: 0.31, conf: 2.52, class: 0.01
+
+Tue, 08 Oct 2019 19:21:37 INFO Epoch: 11, global_step: 5300 | loss: total: 2.76, xy: 0.24, wh: 0.14, conf: 2.36, class: 0.01 | Last batch: rec: 0.571, prec: 0.211 | lr: 0.0001
+Tue, 08 Oct 2019 19:23:18 INFO Epoch: 11, global_step: 5400 | loss: total: 2.74, xy: 0.25, wh: 0.14, conf: 2.35, class: 0.01 | Last batch: rec: 0.706, prec: 0.375 | lr: 0.0001
+Tue, 08 Oct 2019 19:25:00 INFO Epoch: 11, global_step: 5500 | loss: total: 2.78, xy: 0.25, wh: 0.15, conf: 2.38, class: 0.01 | Last batch: rec: 0.708, prec: 0.531 | lr: 0.0001
+Tue, 08 Oct 2019 19:26:41 INFO Epoch: 11, global_step: 5600 | loss: total: 2.79, xy: 0.25, wh: 0.15, conf: 2.38, class: 0.01 | Last batch: rec: 0.542, prec: 0.419 | lr: 0.0001
+Tue, 08 Oct 2019 19:28:22 INFO Epoch: 12, global_step: 5700 | loss: total: 1.98, xy: 0.20, wh: 0.14, conf: 1.63, class: 0.00 | Last batch: rec: 0.812, prec: 0.650 | lr: 0.0001
+Tue, 08 Oct 2019 19:30:03 INFO Epoch: 12, global_step: 5800 | loss: total: 2.67, xy: 0.24, wh: 0.18, conf: 2.24, class: 0.01 | Last batch: rec: 0.615, prec: 0.320 | lr: 0.0001
+Tue, 08 Oct 2019 19:31:44 INFO Epoch: 12, global_step: 5900 | loss: total: 2.61, xy: 0.24, wh: 0.16, conf: 2.20, class: 0.01 | Last batch: rec: 0.545, prec: 0.316 | lr: 0.0001
+Tue, 08 Oct 2019 19:33:25 INFO Epoch: 12, global_step: 6000 | loss: total: 2.59, xy: 0.24, wh: 0.16, conf: 2.19, class: 0.01 | Last batch: rec: 0.515, prec: 0.500 | lr: 0.0001
+Tue, 08 Oct 2019 19:35:07 INFO Epoch: 12, global_step: 6100 | loss: total: 2.61, xy: 0.24, wh: 0.15, conf: 2.21, class: 0.01 | Last batch: rec: 0.769, prec: 0.323 | lr: 0.0001
+Tue, 08 Oct 2019 19:36:59 INFO ======> Epoch: 12, global_step: 6174.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2628, Precision: 0.1614, AP: 0.1002
+EVAL: Recall: 0.2628, Precison: 0.1614, mAP: 0.1002
+EVAL: loss: total: 3.20, xy: 0.26, wh: 0.34, conf: 2.60, class: 0.01
+
+Tue, 08 Oct 2019 19:37:26 INFO Epoch: 13, global_step: 6200 | loss: total: 2.55, xy: 0.27, wh: 0.14, conf: 2.14, class: 0.01 | Last batch: rec: 0.676, prec: 0.463 | lr: 0.0001
+Tue, 08 Oct 2019 19:39:07 INFO Epoch: 13, global_step: 6300 | loss: total: 2.32, xy: 0.23, wh: 0.13, conf: 1.95, class: 0.01 | Last batch: rec: 0.455, prec: 0.333 | lr: 0.0001
+Tue, 08 Oct 2019 19:40:48 INFO Epoch: 13, global_step: 6400 | loss: total: 2.33, xy: 0.22, wh: 0.13, conf: 1.96, class: 0.01 | Last batch: rec: 0.692, prec: 0.486 | lr: 0.0001
+Tue, 08 Oct 2019 19:42:29 INFO Epoch: 13, global_step: 6500 | loss: total: 2.40, xy: 0.23, wh: 0.14, conf: 2.02, class: 0.01 | Last batch: rec: 0.703, prec: 0.406 | lr: 0.0001
+Tue, 08 Oct 2019 19:44:10 INFO Epoch: 13, global_step: 6600 | loss: total: 2.38, xy: 0.23, wh: 0.14, conf: 2.00, class: 0.01 | Last batch: rec: 0.739, prec: 0.486 | lr: 0.0001
+Tue, 08 Oct 2019 19:45:52 INFO Epoch: 14, global_step: 6700 | loss: total: 2.21, xy: 0.23, wh: 0.14, conf: 1.84, class: 0.01 | Last batch: rec: 0.571, prec: 0.296 | lr: 0.0001
+Tue, 08 Oct 2019 19:47:33 INFO Epoch: 14, global_step: 6800 | loss: total: 2.18, xy: 0.21, wh: 0.13, conf: 1.83, class: 0.01 | Last batch: rec: 0.864, prec: 0.655 | lr: 0.0001
+Tue, 08 Oct 2019 19:49:14 INFO Epoch: 14, global_step: 6900 | loss: total: 2.13, xy: 0.21, wh: 0.13, conf: 1.79, class: 0.01 | Last batch: rec: 0.833, prec: 0.435 | lr: 0.0001
+Tue, 08 Oct 2019 19:50:55 INFO Epoch: 14, global_step: 7000 | loss: total: 2.13, xy: 0.21, wh: 0.13, conf: 1.78, class: 0.01 | Last batch: rec: 0.556, prec: 0.357 | lr: 0.0001
+Tue, 08 Oct 2019 19:52:36 INFO Epoch: 14, global_step: 7100 | loss: total: 2.18, xy: 0.22, wh: 0.14, conf: 1.81, class: 0.01 | Last batch: rec: 0.500, prec: 0.179 | lr: 0.0001
+Tue, 08 Oct 2019 19:53:38 INFO ======> Epoch: 14, global_step: 7124.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2959, Precision: 0.1468, AP: 0.1024
+EVAL: Recall: 0.2959, Precison: 0.1468, mAP: 0.1024
+EVAL: loss: total: 3.29, xy: 0.26, wh: 0.36, conf: 2.66, class: 0.01
+
+Tue, 08 Oct 2019 19:54:56 INFO Epoch: 15, global_step: 7200 | loss: total: 1.86, xy: 0.20, wh: 0.13, conf: 1.53, class: 0.01 | Last batch: rec: 0.727, prec: 0.381 | lr: 0.0001
+Tue, 08 Oct 2019 19:56:37 INFO Epoch: 15, global_step: 7300 | loss: total: 1.92, xy: 0.21, wh: 0.14, conf: 1.56, class: 0.01 | Last batch: rec: 0.929, prec: 0.520 | lr: 0.0001
+Tue, 08 Oct 2019 19:58:18 INFO Epoch: 15, global_step: 7400 | loss: total: 1.92, xy: 0.20, wh: 0.14, conf: 1.57, class: 0.01 | Last batch: rec: 0.429, prec: 0.500 | lr: 0.0001
+Tue, 08 Oct 2019 20:00:00 INFO Epoch: 15, global_step: 7500 | loss: total: 1.96, xy: 0.21, wh: 0.14, conf: 1.61, class: 0.01 | Last batch: rec: 0.621, prec: 0.353 | lr: 0.0001
+Tue, 08 Oct 2019 20:01:45 INFO Epoch: 16, global_step: 7600 | loss: total: 1.45, xy: 0.23, wh: 0.13, conf: 1.08, class: 0.00 | Last batch: rec: 0.833, prec: 0.455 | lr: 0.0001
+Tue, 08 Oct 2019 20:03:26 INFO Epoch: 16, global_step: 7700 | loss: total: 1.80, xy: 0.20, wh: 0.14, conf: 1.45, class: 0.01 | Last batch: rec: 0.857, prec: 0.577 | lr: 0.0001
+Tue, 08 Oct 2019 20:05:08 INFO Epoch: 16, global_step: 7800 | loss: total: 1.78, xy: 0.21, wh: 0.13, conf: 1.44, class: 0.01 | Last batch: rec: 0.762, prec: 0.471 | lr: 0.0001
+Tue, 08 Oct 2019 20:06:49 INFO Epoch: 16, global_step: 7900 | loss: total: 1.74, xy: 0.20, wh: 0.13, conf: 1.41, class: 0.01 | Last batch: rec: 0.839, prec: 0.650 | lr: 0.0001
+Tue, 08 Oct 2019 20:08:30 INFO Epoch: 16, global_step: 8000 | loss: total: 1.76, xy: 0.20, wh: 0.14, conf: 1.41, class: 0.01 | Last batch: rec: 0.900, prec: 0.439 | lr: 0.0001
+Tue, 08 Oct 2019 20:10:22 INFO ======> Epoch: 16, global_step: 8074.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2959, Precision: 0.1487, AP: 0.0990
+EVAL: Recall: 0.2959, Precison: 0.1487, mAP: 0.0990
+EVAL: loss: total: 3.57, xy: 0.26, wh: 0.38, conf: 2.92, class: 0.00
+
+Tue, 08 Oct 2019 20:10:50 INFO Epoch: 17, global_step: 8100 | loss: total: 1.59, xy: 0.21, wh: 0.12, conf: 1.26, class: 0.01 | Last batch: rec: 0.917, prec: 0.524 | lr: 0.0001
+Tue, 08 Oct 2019 20:12:31 INFO Epoch: 17, global_step: 8200 | loss: total: 1.59, xy: 0.19, wh: 0.13, conf: 1.27, class: 0.01 | Last batch: rec: 0.909, prec: 0.571 | lr: 0.0001
+Tue, 08 Oct 2019 20:14:12 INFO Epoch: 17, global_step: 8300 | loss: total: 1.63, xy: 0.20, wh: 0.14, conf: 1.29, class: 0.01 | Last batch: rec: 0.812, prec: 0.650 | lr: 0.0001
+Tue, 08 Oct 2019 20:15:53 INFO Epoch: 17, global_step: 8400 | loss: total: 1.60, xy: 0.19, wh: 0.14, conf: 1.27, class: 0.00 | Last batch: rec: 0.895, prec: 0.531 | lr: 0.0001
+Tue, 08 Oct 2019 20:17:34 INFO Epoch: 17, global_step: 8500 | loss: total: 1.59, xy: 0.19, wh: 0.14, conf: 1.26, class: 0.00 | Last batch: rec: 0.714, prec: 0.455 | lr: 0.0001
+Tue, 08 Oct 2019 20:19:16 INFO Epoch: 18, global_step: 8600 | loss: total: 1.42, xy: 0.18, wh: 0.17, conf: 1.07, class: 0.00 | Last batch: rec: 1.000, prec: 0.714 | lr: 0.0001
+Tue, 08 Oct 2019 20:20:57 INFO Epoch: 18, global_step: 8700 | loss: total: 1.38, xy: 0.18, wh: 0.14, conf: 1.05, class: 0.00 | Last batch: rec: 0.944, prec: 0.347 | lr: 0.0001
+Tue, 08 Oct 2019 20:22:38 INFO Epoch: 18, global_step: 8800 | loss: total: 1.40, xy: 0.18, wh: 0.14, conf: 1.08, class: 0.00 | Last batch: rec: 0.900, prec: 0.643 | lr: 0.0001
+Tue, 08 Oct 2019 20:24:19 INFO Epoch: 18, global_step: 8900 | loss: total: 1.39, xy: 0.18, wh: 0.14, conf: 1.07, class: 0.00 | Last batch: rec: 0.812, prec: 0.591 | lr: 0.0001
+Tue, 08 Oct 2019 20:26:00 INFO Epoch: 18, global_step: 9000 | loss: total: 1.39, xy: 0.18, wh: 0.14, conf: 1.07, class: 0.00 | Last batch: rec: 0.921, prec: 0.795 | lr: 0.0001
+Tue, 08 Oct 2019 20:27:02 INFO ======> Epoch: 18, global_step: 9024.0, lr: 0.0001 <======
+EVAL: Class 0: Recall: 0.2398, Precision: 0.1615, AP: 0.0877
+EVAL: Recall: 0.2398, Precison: 0.1615, mAP: 0.0877
+EVAL: loss: total: 3.86, xy: 0.27, wh: 0.38, conf: 3.20, class: 0.00
+
+Tue, 08 Oct 2019 20:28:20 INFO Epoch: 19, global_step: 9100 | loss: total: 1.19, xy: 0.17, wh: 0.12, conf: 0.89, class: 0.00 | Last batch: rec: 1.000, prec: 0.457 | lr: 0.0001
+Tue, 08 Oct 2019 20:29:56 INFO Epoch: 19, global_step: 9200 | loss: total: 1.20, xy: 0.17, wh: 0.12, conf: 0.90, class: 0.00 | Last batch: rec: 0.913, prec: 0.677 | lr: 0.0001
+Tue, 08 Oct 2019 20:31:31 INFO Epoch: 19, global_step: 9300 | loss: total: 1.20, xy: 0.17, wh: 0.12, conf: 0.90, class: 0.00 | Last batch: rec: 0.950, prec: 0.613 | lr: 0.0001
+Tue, 08 Oct 2019 20:33:06 INFO Epoch: 19, global_step: 9400 | loss: total: 1.21, xy: 0.17, wh: 0.12, conf: 0.91, class: 0.00 | Last batch: rec: 0.710, prec: 0.710 | lr: 0.0001
