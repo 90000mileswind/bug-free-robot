@@ -70,7 +70,7 @@ warm_up_epoch = 3  # Warm up training epoches. Set to a larger value if gradient
 ### some constants in validation
 # nms
 nms_threshold = 0.45  # iou threshold in nms operation
-  # threshold of the probability of the classes in nms operation, i.e. score = pred_confs * pred_probs. set lower for higher recall.以nms操作表示的类别的概率的阈值，即得分= pred_confs * pred_probs。设置较低以提高召回率。
+score_threshold = 0.01  # threshold of the probability of the classes in nms operation, i.e. score = pred_confs * pred_probs. set lower for higher recall.以nms操作表示的类别的概率的阈值，即得分= pred_confs * pred_probs。设置较低以提高召回率。
 nms_topk = 150  # keep at most nms_topk outputs after nms在nms之后最多保留nms_topk个输出
 # mAP eval
 eval_threshold = 0.5  # the iou threshold applied in mAP evaluation
