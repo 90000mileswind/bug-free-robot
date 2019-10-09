@@ -1,4 +1,4 @@
-The project is written for Tianchi's "Digitized Human Body" Visual Challenge Competition,You can start trianing processs easily by just downloading the data from the competition website and modifying the corresponding data reading address.
+The project is written for Tianchi's "Digitized Human Body" Visual Challenge Competition,You can start training processs easily by just downloading the data from the competition website and modifying the corresponding data reading address.
 
 At least you can use it to learn YOLOv3 algorithm,but more adjustments may be needed for the competition.
 
